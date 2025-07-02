@@ -93,6 +93,7 @@ Uma lista de eventos de cibersegurança confirmados para o ano de **2025**. Esta
 
 | Nome do Evento | Data do Evento | Local | Tipo de Conteúdo |
 |----------------|---------------|-------|-------------|
+| [Bsides BSB](https://bsidesbsb.com)       | 01-11-2025    | Brasilia, DF | 1a Bsides em BSB. Evento de segurança da comunidade para a comunidade.  |
 | [Nullbyte](https://nullbyte.conference.br)       | 08-11-2025    | Salvador, BH | É TUDO TÉCNICO |
 
 ## Dezembro
